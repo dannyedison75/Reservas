@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+  }
+
+  .footer {
+    text-align: center;
+  }
+  .row{
+    background-color: #32373c;
+  }
+  .elemeto-titulo1{
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: left;
+    color: white
+  }
+  .elemento-separador{
+    padding-left: 10%;
+    text-align: left;
+    height: 20px;
+    color: #ee2b7b;
+  }
+  .elemento-informacion1{
+    padding-left: 10%;
+    text-align: left;
+    color: white;
+  }
+  .reservado{
+    text-align: center;
+  }
+  .raya{
+    color: #ee2b7b;
+    
+     
+     
+  }
